@@ -1,0 +1,33 @@
+.construction {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.construction h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.message {
+  max-width: 640px;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.total {
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.construction a {
+  color: #0969da;
+  font-weight: 600;
+}

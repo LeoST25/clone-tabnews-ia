@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import "./home.css";
 
 export const metadata: Metadata = {
-  title: "Lista de Nomes",
+  title: "Em Construção | TabNews",
+  description:
+    "Estamos reconstruindo o TabNews, um lugar na internet para quem trabalha com tecnologia.",
 };
 
 export default function RootLayout({
